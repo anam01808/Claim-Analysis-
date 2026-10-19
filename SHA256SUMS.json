@@ -1,0 +1,23 @@
+{
+  "LiMP_Run_Study.ipynb": "966b6adea01979a7306b8f85e8f83985e83c213ffdaa4c69f00113a679a49425",
+  "README.md": "486e3bd3293d3664ff4f9175e146efc9268844febb66b6d61946e8dd37ae305a",
+  "VALIDATION.md": "0e87fb63795a3aa8fd970c6d79f0a60acbf865d3a575e02b2ce221fca5e931f9",
+  "data/Claim_Credibility.xlsx": "8a545adc24f8ca4ba503151dd7b67ca768b652a347e232419e9deb65e26a86ac",
+  "limp/__init__.py": "4eb8e7d7ead3b0a69c8303cf60bdc00ee285aaccb89cc420712ee16f785e988f",
+  "limp/data.py": "cb93f9cd9c3c1f188287466b10c615d455b258e271bb7c6f6d76ff8f0c392276",
+  "limp/explain.py": "40ba236b322bc2d6747de31a1e1dcb23d6fd6d2310738f66c9d7766221f09d83",
+  "limp/metrics.py": "63526098e41b294d6e3623404ec942056363df54b50a91a3039292344fda01b3",
+  "limp/model.py": "6a880ab106bc3480fc33ca97157d949cf35b1bea9f4813d252e543e94cc4b7e8",
+  "limp/report.py": "376734b5f3dae6956aa5a81e6fd52dcb34103ade5b39934ba9dd6aa74d1072b5",
+  "limp/resources.py": "2cedfe2aa0ba92890ea15a75c2d16ec8d00a37a115fa896e19f2f4e95a575f96",
+  "limp/statistics.py": "48a47f0f7e7aa15f74f052d355d08d056a8982a6b2d9af4141ea9a4bc2b7884c",
+  "limp/topics.py": "bf3425cce504a26490ecaa0217626e4d829d2177d1d5b2292a7117fb5142620c",
+  "limp/train.py": "acf590cbbe20e12f9d4e56eafc1e4efc46fddfb0430eb29adb006e0b936019ae",
+  "requirements.txt": "f7affc3c054d9e0f36f9f8f3298070ee6169d0e10386524afe6f9bec6297cdad",
+  "run.py": "4b15441d4c6b166fdaeeb20c2ceb046de9d048955bc8bea8f27686a27652562d",
+  "run_study.py": "b81e500ac17e6c513c0fdb9e50f697b8718b18112a500d3cb5a0f1716f867cc5",
+  "tested_versions.json": "40b99d68e18907069f4f2bb205eedb51a6788b872072445af78a3d437cc2fb6c",
+  "tests/test_core.py": "3d4f7f4f7ca065f322b315e76f4ba5458a23fa6d5aac6c6430092210312aca34",
+  "tests/test_model.py": "0aea1e811d816267e12b32b406ceb1e41625828b149f7eaa3c136238c185274a",
+  "tests/test_training.py": "722552c85f8a919de8f29a126bdbd8425935011d8b07f95eb0ed0baf4f72cb8a"
+}
